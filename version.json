@@ -4,5 +4,5 @@
   "releaseDate": "09/11/2026",
   "changelog": "- Thêm biểu đồ phân tích chi tiêu ngày, tháng, năm chuẩn MISA Money Keeper\n- Tích hợp tính năng tự động cập nhật không dây In-App OTA\n- Tối ưu hiệu năng và sửa lỗi hiển thị giao diện",
   "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.1.0/FinTrack_v1.1.0.apk",
-  "fileSize": 10297293
+  "fileSize": 10322205
 }
