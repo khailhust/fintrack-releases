@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.0",
+  "versionCode": 7,
+  "versionName": "1.3.1",
   "releaseDate": "10/11/2026",
-  "changelog": "- Tự động cập nhật từ phiên bản v1.3.0\n- Tối ưu hiệu năng và sửa lỗi giao diện",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.3.0/FinTrack_v1.3.0.apk",
-  "fileSize": 10526012,
-  "sha256": "c2c28dade7e2507d8cdaa86cbdb59459fe01e6130ba5b9b204077d2e279b436a"
+  "changelog": "- Tự động cập nhật từ phiên bản v1.3.1\n- Tối ưu hiệu năng và sửa lỗi giao diện",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.3.1/FinTrack_v1.3.1.apk",
+  "fileSize": 10607936,
+  "sha256": "535012bcd5c2ef8a891744c1a79048dfbefedf55dad349760bcdccee84303c3a"
 }
