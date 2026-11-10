@@ -2,7 +2,7 @@
   "versionCode": 12,
   "versionName": "1.3.6",
   "releaseDate": "10/11/2026",
-  "changelog": "fix(categories): stop false Chi tieu khac highlight in detail dialog (v1.3.6)",
+  "changelog": "- Sửa lỗi hộp thoại Chi tiết Giao dịch vẫn hiển thị dấu tích \"Chi tiêu khác\" bên dưới dù đã chọn hạng mục chi tiết (như Biếu tặng hoặc hạng mục tự tạo)\n- Đồng bộ biểu tượng hạng mục chi tiết ở thẻ tóm tắt trên cùng, hiển thị nhãn nhóm cha và thay lưới cũ bằng \"Mục hay dùng\"\n- Sửa màn Phân tích chi tiêu hiển thị đúng tên và biểu tượng hạng mục chi tiết trong danh sách giao dịch theo ngày",
   "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.3.6/FinTrack_v1.3.6.apk",
   "fileSize": 10689896,
   "sha256": "0e0fd89620b76bc02c4b5d4cd494e44b0eb03cd4f1f4d86390a817e62646883a"
