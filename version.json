@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.0",
+  "versionCode": 15,
+  "versionName": "1.4.1",
   "releaseDate": "11/11/2026",
-  "changelog": "- Cho phép phân tích và lọc chi tiêu tới từng nhóm cha hoặc từng hạng mục con, kèm tìm kiếm không dấu và tổng tiền phát sinh trong kỳ\n- Bổ sung chế độ xem \"Theo hạng mục con\" ngay trong Phân tích chi tiêu hiển thị tỷ trọng % và chạm để xem xu hướng chi tiết\n- Lọc chính xác danh sách giao dịch theo ngày và cho phép mở rộng xem hạng mục con trong báo cáo Cơ cấu theo Danh mục",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.0/FinTrack_v1.4.0.apk",
+  "changelog": "- Căn chỉnh thẳng hàng biểu tượng, tiêu đề và nút khóa/xóa cho nhóm cha và mục độc lập ở màn hình Chọn hạng mục và Hạng mục thu/chi\n- Đồng bộ trục dọc, thụt lề mục con và cột số tiền trong hộp thoại Lọc theo Hạng mục ở Phân tích chi tiêu\n- Căn thẳng cột số tiền và tỷ trọng % giữa nhóm cha, mục con và dữ liệu cũ ở chế độ Theo hạng mục con và báo cáo Cơ cấu theo Danh mục",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.1/FinTrack_v1.4.1.apk",
   "fileSize": 10788200,
-  "sha256": "957e6e6e801fe23dc484920acb6113700f3e76876c2974803a74915a7e307bc9"
+  "sha256": "c4554756c41d74cff389b01379181023b596d6d81c8d24659c99dfbcd8f689d8"
 }
