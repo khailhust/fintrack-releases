@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.1",
+  "versionCode": 16,
+  "versionName": "1.4.2",
   "releaseDate": "11/11/2026",
-  "changelog": "- Căn chỉnh thẳng hàng biểu tượng, tiêu đề và nút khóa/xóa cho nhóm cha và mục độc lập ở màn hình Chọn hạng mục và Hạng mục thu/chi\n- Đồng bộ trục dọc, thụt lề mục con và cột số tiền trong hộp thoại Lọc theo Hạng mục ở Phân tích chi tiêu\n- Căn thẳng cột số tiền và tỷ trọng % giữa nhóm cha, mục con và dữ liệu cũ ở chế độ Theo hạng mục con và báo cáo Cơ cấu theo Danh mục",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.1/FinTrack_v1.4.1.apk",
-  "fileSize": 10788200,
-  "sha256": "c4554756c41d74cff389b01379181023b596d6d81c8d24659c99dfbcd8f689d8"
+  "changelog": "- Sửa triệt để lỗi tự đọc lại thông báo phân loại nhanh (Self-Echo) gây 2 thông báo giống hệt nhau và ghi trùng giao dịch cho 1 lần chuyển khoản\n- Gia cố chống trùng đa tầng theo mã tham chiếu Ref, số dư cuối (SD) và nội dung cắt ngắn khi ngân hàng hoặc HyperOS phát lại thông báo\n- Tự động dọn bản sao giao dịch tự dội đã ghi từ phiên bản trước, bảo toàn hạng mục đã gán và cân khớp lại số dư sổ với ngân hàng",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.2/FinTrack_v1.4.2.apk",
+  "fileSize": 10804588,
+  "sha256": "285b3c609ead3bca3a558a52a1ba99da8a1194112b59fbecc4903c17d0d82496"
 }
