@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.2",
-  "releaseDate": "11/11/2026",
-  "changelog": "- Sửa triệt để lỗi tự đọc lại thông báo phân loại nhanh (Self-Echo) gây 2 thông báo giống hệt nhau và ghi trùng giao dịch cho 1 lần chuyển khoản\n- Gia cố chống trùng đa tầng theo mã tham chiếu Ref, số dư cuối (SD) và nội dung cắt ngắn khi ngân hàng hoặc HyperOS phát lại thông báo\n- Tự động dọn bản sao giao dịch tự dội đã ghi từ phiên bản trước, bảo toàn hạng mục đã gán và cân khớp lại số dư sổ với ngân hàng",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.2/FinTrack_v1.4.2.apk",
-  "fileSize": 10804588,
-  "sha256": "285b3c609ead3bca3a558a52a1ba99da8a1194112b59fbecc4903c17d0d82496"
+  "versionCode": 17,
+  "versionName": "1.4.3",
+  "releaseDate": "12/11/2026",
+  "changelog": "- Chặn triệt để thông báo quảng cáo bảo hiểm, dùng thử miễn phí và cảnh báo chung từ ZaloPay, MoMo và các ngân hàng không còn lọt vào mục Cần bạn kiểm tra\n- Bảo toàn 100% giao dịch thật theo chứng cứ sổ cái và vùng ghi chú chuyển khoản (kể cả mua bảo hiểm thật, hoàn tiền hoặc ghi chú có từ khóa giống quảng cáo)\n- Tự động dọn sạch các thông báo quảng cáo cũ còn tồn trong hàng đợi Cần bạn kiểm tra ngay khi mở ứng dụng",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.3/FinTrack_v1.4.3.apk",
+  "fileSize": 10804584,
+  "sha256": "20216ac348fff6ab258d25b27c91e1329bc5f1f13541d225e23580cada8e8132"
 }
