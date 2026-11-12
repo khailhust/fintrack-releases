@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "1.4.3",
+  "versionCode": 18,
+  "versionName": "1.4.4",
   "releaseDate": "12/11/2026",
-  "changelog": "- Chặn triệt để thông báo quảng cáo bảo hiểm, dùng thử miễn phí và cảnh báo chung từ ZaloPay, MoMo và các ngân hàng không còn lọt vào mục Cần bạn kiểm tra\n- Bảo toàn 100% giao dịch thật theo chứng cứ sổ cái và vùng ghi chú chuyển khoản (kể cả mua bảo hiểm thật, hoàn tiền hoặc ghi chú có từ khóa giống quảng cáo)\n- Tự động dọn sạch các thông báo quảng cáo cũ còn tồn trong hàng đợi Cần bạn kiểm tra ngay khi mở ứng dụng",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.3/FinTrack_v1.4.3.apk",
+  "changelog": "- Mặc định thu gọn các nhóm danh mục cha ở màn Phân tích chi tiêu, Bộ lọc hạng mục và Tổng quan & Ngân sách; chỉ mở rộng hạng mục con khi chạm nút mũi tên\n- Tách riêng vùng bấm nút mũi tên và giữ thẳng cột số tiền giữa hạng mục cha và hạng mục con\n- Giữ mặc định mở sẵn danh sách hạng mục con ở màn Chọn hạng mục (khi ghi chép) và Quản lý hạng mục thu/chi để chọn và chỉnh sửa nhanh hơn",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.4/FinTrack_v1.4.4.apk",
   "fileSize": 10804584,
-  "sha256": "20216ac348fff6ab258d25b27c91e1329bc5f1f13541d225e23580cada8e8132"
+  "sha256": "c4cd50ca973a63ac067a3824b4e13a4f4629a4a7be5b603cf5b2c4a5a6fb84f4"
 }
