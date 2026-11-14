@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.6",
+  "versionCode": 21,
+  "versionName": "1.4.7",
   "releaseDate": "14/11/2026",
-  "changelog": "Phiên bản v1.4.6 - Bảo mật OTA, tối ưu hiệu năng khởi động & xuất bản Release chuẩn R8\n\n- Chuyển bản phát hành OTA sang cấu hình Release thu gọn & làm rối mã nguồn với R8, giảm dung lượng APK xuống ~1.55 MB và tắt hoàn toàn chế độ debug.\n- Thắt chặt bảo mật: Che mã OTP (cả dạng liền và dạng tách nhóm 3-3) trước khi lưu nhật ký thô, tự động dọn log quá 30 ngày định kỳ mỗi 24 giờ, khóa chặt nguồn tải và SHA-256 cho cập nhật OTA.\n- Bảo vệ toàn vẹn sổ cái: Bọc SQLite transaction cho toàn bộ thao tác ghi nhiều bước, chuẩn hóa khởi tạo tài khoản sạch cho máy cài mới và chống xóa nhầm giao dịch thủ công khi đối soát tự động.\n- Tối ưu khởi động & kiến trúc: Đưa tác vụ nạp/đối soát sổ cái ban đầu và hàng đợi thông báo ngân hàng sang luồng nền IO (không khóa giao diện khi mở app hay khởi động máy), giữ nguyên trạng thái tab/bộ lọc khi xoay màn hình hoặc đổi giao diện sáng/tối.\n- Cải thiện xuất báo cáo CSV: Chống lỗi công thức bảng tính (CSV Formula Injection) và chia sẻ trực tiếp tệp .csv an toàn qua FileProvider.",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.6/FinTrack_v1.4.6.apk",
-  "fileSize": 1623929,
-  "sha256": "4d3095c94270e53c6b3bcd651ad69ba6dbe5550b56b2ded54c9c47a523d81592"
+  "changelog": "Phiên bản v1.4.7 - Giao diện điều hướng 5 mục chuẩn MISA & tối ưu màn hình Ghi chép\n\n- Thiết kế lại thanh điều hướng dưới cùng gồm 5 mục (Tổng quan, Tài khoản, Ghi chép, Báo cáo, Khác) kèm bộ biểu tượng vector SVG chuẩn MISA, tô trắng rõ nét mục đang chọn và căn khoảng cách an toàn phía trên thanh cử chỉ hệ thống.\n- Gỡ thanh tiêu đề tên app trên đầu màn hình chính; bổ sung tiêu đề lời chào theo khung giờ + Tổng quan ở trang Tổng quan, tiêu đề \"Tài khoản của tôi\" ở trang Tài khoản và gom toàn bộ Cài đặt vào tab Khác.\n- Chuyển Sổ giao dịch thành Lịch sử ghi chép trong nhóm \"Bạn hay dùng\" của trang Khác với giao diện tổng hợp Tổng thu / Tổng chi trực quan.\n- Giữ nguyên thanh điều hướng 5 mục khi mở trang Ghi chép và thay nút Quay lại ở góc trên trái bằng nút Lịch sử giao dịch giúp tra cứu và quay về màn hình nhập liệu nhanh chóng.",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.7/FinTrack_v1.4.7.apk",
+  "fileSize": 1631833,
+  "sha256": "1cbb262c27fb402db9beec67c76df6b0db9240abc0452aa72aeb2de88b8b1051"
 }
