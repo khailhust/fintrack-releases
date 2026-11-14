@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.7",
+  "versionCode": 22,
+  "versionName": "1.4.8",
   "releaseDate": "14/11/2026",
-  "changelog": "Phiên bản v1.4.7 - Giao diện điều hướng 5 mục chuẩn MISA & tối ưu màn hình Ghi chép\n\n- Thiết kế lại thanh điều hướng dưới cùng gồm 5 mục (Tổng quan, Tài khoản, Ghi chép, Báo cáo, Khác) kèm bộ biểu tượng vector SVG chuẩn MISA, tô trắng rõ nét mục đang chọn và căn khoảng cách an toàn phía trên thanh cử chỉ hệ thống.\n- Gỡ thanh tiêu đề tên app trên đầu màn hình chính; bổ sung tiêu đề lời chào theo khung giờ + Tổng quan ở trang Tổng quan, tiêu đề \"Tài khoản của tôi\" ở trang Tài khoản và gom toàn bộ Cài đặt vào tab Khác.\n- Chuyển Sổ giao dịch thành Lịch sử ghi chép trong nhóm \"Bạn hay dùng\" của trang Khác với giao diện tổng hợp Tổng thu / Tổng chi trực quan.\n- Giữ nguyên thanh điều hướng 5 mục khi mở trang Ghi chép và thay nút Quay lại ở góc trên trái bằng nút Lịch sử giao dịch giúp tra cứu và quay về màn hình nhập liệu nhanh chóng.",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.7/FinTrack_v1.4.7.apk",
+  "changelog": "Phiên bản v1.4.8 - Đồng bộ màu xanh thương hiệu cho thanh điều hướng\n\n- Đồng bộ màu nền thanh điều hướng dưới cùng và biểu tượng \"+\" của nút Ghi chép theo tông xanh chủ đạo PrimaryBlue (#1E3A8A), nhất quán hoàn toàn với thẻ Tổng tài sản và các nút hành động trên toàn ứng dụng.\n- Tinh chỉnh độ tương phản biểu tượng và nhãn chữ trên thanh điều hướng giúp trạng thái đang chọn nổi bật và dễ đọc hơn.",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.8/FinTrack_v1.4.8.apk",
   "fileSize": 1631833,
-  "sha256": "1cbb262c27fb402db9beec67c76df6b0db9240abc0452aa72aeb2de88b8b1051"
+  "sha256": "7a9252606fba7a53e3f8c8dd8b78e801fa9bf060c80ef1f2cb2073b9515d0719"
 }
