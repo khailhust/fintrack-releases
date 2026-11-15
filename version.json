@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.9",
+  "versionCode": 24,
+  "versionName": "1.4.10",
   "releaseDate": "15/11/2026",
-  "changelog": "- feat(reports): upgrade spending analysis, cashflow time pickers, and 6-jars setup (v1.4.9)",
-  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.9/FinTrack_v1.4.9.apk",
-  "fileSize": 1746521,
-  "sha256": "0a62492cc74d2a7be32e2b4b1ef82494c9c38b0ccc411209d1785f07b9346eb9"
+  "changelog": "Phiên bản v1.4.10 - Thiết kế lại Lịch sử ghi chép & nâng cấp toàn diện Báo cáo tài chính\n\n- Thiết kế lại trang Lịch sử ghi chép chuẩn MISA: tích hợp thanh tìm kiếm trực tiếp theo hạng mục/diễn giải, thẻ tổng hợp Tổng thu / Tổng chi, nhóm giao dịch theo ngày kèm ghi chú nghiêng và nhãn ví/ngân hàng, cùng trạng thái rỗng trực quan.\n- Bổ sung màn hình Cài đặt dữ liệu (lọc thời gian 5 tab: Ngày, Tuần, Tháng, Quý, Tùy chọn) cho phép tra cứu lịch sử giao dịch linh hoạt theo từng kỳ hoặc khoảng ngày bất kỳ.\n- Nâng cấp Phân tích tài chính (6 chiếc lọ - JARS): thêm màn hình Chọn thời gian, biểu đồ cột đôi đối chiếu mức chi khuyến nghị với thực tế, màn hình Thiết lập báo cáo phân loại hạng mục chi vào 6 hũ và thanh trượt điều chỉnh tỉ lệ.\n- Cải thiện Tình hình thu chi & Phân tích chi tiêu: bỏ mũi tên chuyển kỳ thủ công, thêm hộp thoại chọn đơn năm, khoảng năm, khoảng ngày trên từng tab và tách màn hình lọc nhiều hạng mục chi tiết / tài khoản riêng biệt.",
+  "apkUrl": "https://github.com/khailhust/fintrack-releases/releases/download/v1.4.10/FinTrack_v1.4.10.apk",
+  "fileSize": 1762905,
+  "sha256": "a8f7eee88ea6b301bd15d57d629376af23c23a95f5b8435ca17ce7ebf25a6e1c"
 }
